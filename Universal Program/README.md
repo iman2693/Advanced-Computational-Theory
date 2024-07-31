@@ -75,7 +75,7 @@ To use this program, provide the instructions and inputs as described in the inp
 You can run the program by executing the following command and providing the input:
 
 ```bash
-python simulator.py
+python Universal Program.py
 ```
 
 ## License
